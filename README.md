@@ -20,7 +20,8 @@ A tabloidic resource for spring boilerplate
  * Logs
  * Admin Processes
  
-#Leonard Richardson’s Maturity Model
+# Leonard Richardson’s Maturity Model
+
 REST is all about exposing the mutations of business state with the verbs (GET, PUT, POST, DELETE, etc.) and idioms (HTTP headers, status codes, etc.) that HTTP already gives us to support service-to-service communication. The best REST APIs tend to exploit more of HTTP’s capabilities. REST, for all of its benefits, is an architectural constraint on HTTP, not any sort of standard, and so we’ve seen a proliferation of APIs of varying degrees of compliance with RESTful principles. Leonard Richardson put forth his REST maturity model to help grade an API’s compliance with REST’s principles:
 
 Level 0: The swamp of POX
