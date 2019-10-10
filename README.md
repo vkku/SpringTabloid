@@ -6,16 +6,16 @@ A tabloidic resource for spring boilerplate
 * Client-Side Load Balancing (Ribbon)
 
 # Monolith to Microservices :
-  The Twelve Factors
-  Codebase
-  Dependencies
-  Config
-  Backing Services
-  Build, Release, Run
-  Processes
-  Port Bindings
-  Concurrency
-  Disposability
-  Dev/Prod Parity
-  Logs
-  Admin Processes
+ * The Twelve Factors
+ * Codebase
+ * Dependencies
+ * Config
+ * Backing Services
+ * Build, Release, Run
+ * Processes
+ * Port Bindings
+ * Concurrency
+ * Disposability
+ * Dev/Prod Parity
+ * Logs
+ * Admin Processes
