@@ -39,3 +39,4 @@ Describes APIs that leverage transport-native properties (like HTTP verbs and st
 
 Level 3: Hypermedia controls (HATEOAS, for Hypermedia as the Engine of Application State)
 Describes APIs that require no a priori knowledge of a service in order to navigate it. Such a service promotes longevity through a uniform interface for interrogating a service’s structure.
+
